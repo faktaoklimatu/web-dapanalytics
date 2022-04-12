@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "org-dap-analytics"
+  },
+  "targets": {
+    "podcast-2050": {
+      "hosting": {
+        "production": [
+          "org-dap-analytics"
+        ],
+        "preview": [
+          "org-dap-analytics"
+        ]
+      }
+    }
+  }
+}
