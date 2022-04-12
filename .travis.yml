@@ -7,7 +7,7 @@ git:
   depth: false
 
 script:
-  - :
+  - pwd
 
 before_deploy: 
   - wget -q --output-document=firebase https://firebase.tools/bin/linux/latest
