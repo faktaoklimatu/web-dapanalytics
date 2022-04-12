@@ -1,3 +1,3 @@
-# Zajic Kovo website
+# DAP Analytics website
 
-Website of Zajic KOVO at https://zajickovo.cz.
+Website of DAP Analytics at https://dapanalytics.org.
