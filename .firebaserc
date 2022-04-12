@@ -3,7 +3,7 @@
     "default": "org-dap-analytics"
   },
   "targets": {
-    "podcast-2050": {
+    "org-dap-analytics": {
       "hosting": {
         "production": [
           "org-dap-analytics"
